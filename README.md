@@ -47,7 +47,7 @@ justy-transactions-scraper/
    ```
 2. **Run the scraper**
    ```bash
-   python scraper.py
+   python justy-scraper-transactions.py
    ```
 3. **Output**
    - Scraped transactions will be saved in the `output/` folder as CSV files, same location as the py file
