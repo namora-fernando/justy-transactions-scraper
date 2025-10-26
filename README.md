@@ -1,15 +1,11 @@
 # 🕷️ Justy Transactions Scraper  
 
-[![Data Privacy](https://img.shields.io/badge/data-confidential-orange)](./README.md)  
-
 Automated web scraping tool built with **Python + Selenium** to extract transaction data from **Justy Café’s POS system**.  
 This scraper was developed for internal analytics purposes and powers the dataset used in the [Justy Sales Dashboard](https://github.com/namora-fernando/justy-sales-dashboard).  
 
 ⚠️ **Disclaimer**:  
 - This project is not affiliated with, endorsed by, or officially connected to **ESB POS** in any way.  
 - The scraper was built as a workaround for missing export features and is intended only for internal analytics.  
-- The full transaction dataset is confidential and not included in this repository.  
-- Only sample data is provided for demonstration purposes.  
 
 ---
 
@@ -57,11 +53,4 @@ justy-transactions-scraper/
 
 ## 🔒 Data Privacy
 
-This project contains **no sensitive business data**. Only _synthetic sample data_ is shared for demo purposes. <br>
-For real usage, please ensure compliance with your organization's **data governance policies**.
-
----
-
-## 📜 License
-
-This project is licensed under a **Private/Confidential License**. Not intended for public or commercial use.
+This project contains **no sensitive business data**. The permission already given by the owner of the cafe.
