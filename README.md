@@ -5,7 +5,8 @@ This scraper was developed for internal analytics purposes and powers the datase
 
 ⚠️ **Disclaimer**:  
 - This project is not affiliated with, endorsed by, or officially connected to **ESB POS** in any way.  
-- The scraper was built as a workaround for missing export features and is intended only for internal analytics.  
+- The scraper was built as a workaround for missing export features and is intended only for internal analytics.
+- The data that represented on the sample data, is only a sample of all real data
 
 ---
 
@@ -53,4 +54,4 @@ justy-transactions-scraper/
 
 ## 🔒 Data Privacy
 
-This project contains **no sensitive business data**. The permission already given by the owner of the cafe.
+This project contains **no sensitive business data**. The permission already given by the owner of the café.
