@@ -5,15 +5,15 @@ This scraper was developed for internal analytics purposes and powers the datase
 
 ⚠️ **Disclaimer**:  
 - This project is not affiliated with, endorsed by, or officially connected to **ESB POS** in any way.  
-- The scraper was built as a workaround for missing export features and is intended only for internal analytics.
-- The data that represented on the sample data, is only a sample of all real data
+- The scraper was built as a workaround for missing export features from ESB POS and is intended only for internal analytics.
+- The data that represented on the sample data, is only a sample of all data. However, the tools can be used for all real data without boundary of the date.
 
 ---
 
-## ✨ Features  
-- 🔄 Automated scraping of POS transaction history  
-- 📂 Export transactions into CSV format for downstream analytics (e.g., Power BI)  
-- ⚡ Scales to handle thousands of transactions without manual copy-paste  
+## Features  :
+- Automated scraping of POS transaction history  
+- Export transactions into CSV format for downstream analytics (e.g., Power BI)  
+- Scales to handle thousands of transactions without manual copy-paste  
 
 ---
 
@@ -36,7 +36,7 @@ justy-transactions-scraper/
 
 ---
 
-## 🚀 Usage  
+## Usage  
 
 1. **Install dependencies**  
    ```bash
@@ -52,6 +52,6 @@ justy-transactions-scraper/
 
 ---
 
-## 🔒 Data Privacy
+## ⚠️ Data Privacy
 
 This project contains **no sensitive business data**. The permission already given by the owner of the café.
