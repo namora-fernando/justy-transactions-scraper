@@ -46,7 +46,14 @@ justy-transactions-scraper/
    ```bash
    python justy-scraper-transactions.py
    ```
-3. **Output**
+   *Note:* Please wait for some moment on the first process of the program for installation of packages.
+   
+3. **Input on programs**
+   - Input e-mail and password for account of **ESB POS** to gain access into each account transactions access.
+   - When the program ask input the date, only hit `Enter` **after** manually clicked on the popped website, to gain transactional data from starting date until ending date.
+   *Note:* After date chosen, no input needed more for this program, just wait until the program finished and website to be closed, the outputs will be saved afterward.
+
+4. **Output**
    - Scraped transactions will be saved in the `output/` folder as CSV files, same location as the py file
    - The sample transaction located in the `sample_data/` folder in this repository
 
