@@ -51,7 +51,7 @@ justy-transactions-scraper/
 3. **Input on programs**
    - Input e-mail and password for account of **ESB POS** to gain access into each account transactions access.
    - When the program ask input the date, only hit `Enter` **after** manually clicked on the popped website, to gain transactional data from starting date until ending date.
-   *Note:* After date chosen, no input needed more for this program, just wait until the program finished and website to be closed, the outputs will be saved afterward.
+<br>*Note:* After date chosen, no input needed more for this program, just wait until the program finished and website to be closed, the outputs will be saved afterward.
 
 4. **Output**
    - Scraped transactions will be saved in the `output/` folder as CSV files, same location as the py file
