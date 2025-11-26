@@ -46,7 +46,7 @@ justy-transactions-scraper/
    ```bash
    python justy-scraper-transactions.py
    ```
-   *Note:* Please wait for some moment on the first process of the program for installation of packages.
+   <br> *Note:* Please wait for some moment on the first process of the program for installation of packages.
    
 3. **Input on programs**
    - Input e-mail and password for account of **ESB POS** to gain access into each account transactions access.
