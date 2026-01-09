@@ -1,7 +1,8 @@
 # 🕷️ Justy Transactions Scraper  
 
-Automated web scraping tool built with **Python + Selenium** to extract transaction data from **Justy Café’s ESB POS system**.  
-This scraper was developed for internal analytics purposes and powers the dataset used in the [Justy Sales Dashboard](https://github.com/namora-fernando/justy-sales-dashboard).  
+An automated web scraping program built with **Python and Selenium** to extract detailed transaction-level data from  **Justy Café’s ESB POS system** that does not provide bulk export functionality.
+
+This scraper was developed to overcome limitations of the ESB POS system, where transaction details must be accessed manually on a per-transaction basis. The extracted data is used for internal analytics and serves as the primary data source for the [Justy Sales Dashboard](https://github.com/namora-fernando/justy-sales-dashboard).
 
 ⚠️ **Disclaimer**:  
 - This project is not affiliated with, endorsed by, or officially connected to **ESB POS** in any way.  
